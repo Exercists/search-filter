@@ -24,8 +24,8 @@ Use the provided JavaScript functions to accomplish the tasks.
 
 # Hints
 - Be generous with the `console.log()` and solve one step at a time
-- Use `Object.values(object)` to convert an object to an array
-- Be precise when you choose to use innerText vs innerHTML on a DOM element
-- Use `map()`and `filter()` on array to create variations of the original articles array
+- Use [Object.values()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values) to convert an object to an array
+- Be precise when you choose to use `innerText` vs `innerHTML` on a DOM element
+- Use [map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) and [filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) on array to create variations of the original articles array
 
-- use `childNodes` on an element to get all child elements
+- use [join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join) on an array to
